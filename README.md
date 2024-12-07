@@ -1,8 +1,9 @@
 <img src="./images/computer.gif" width="100%"/>
 
-## Hi there 👋
+## 🖖 Hey visitor! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=Jeremy12106&style=flat-square&color=blueviolet">
+
 <p align='center'>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Hi!+I'm+Jeremy;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Hi!+I'm+Jeremy;an+AI+Engineer">
 </p>
 
 ### ⭐ GitHub Stats
