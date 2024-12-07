@@ -1,12 +1,12 @@
 <img src="./images/computer.gif" width="100%"/>
 
-## 🖖 Hey visitor! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=Jeremy12106&style=flat-square&color=blueviolet">
+# 🖖 Hey visitor! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=Jeremy12106&style=flat-square&color=blueviolet">
 
 <p align='center'>
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Hi!+I'm+Jeremy;an+AI+Engineer">
 </p>
 
-### ⭐ GitHub Stats
+## ⭐ GitHub Stats
 <p> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeremy12106&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="Jeremy12106" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeremy12106&show_icons=true&theme=onedark&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Jeremy12106"/>
