@@ -30,7 +30,7 @@ My experiences have equipped me with a strong foundation in AI and its applicati
 ### ⭐ GitHub Stats
 
 <p> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeremy12106&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="Jeremy12106" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeremy12106&show_icons=true&theme=onedark&locale=en&hide_border=true&include_all_commits=false" alt="Jeremy12106" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeremy12106&show_icons=true&theme=onedark&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Jeremy12106"/>
 </p>
 
