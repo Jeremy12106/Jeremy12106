@@ -1,28 +1,40 @@
 <img src="./images/computer.gif" width="100%"/>
 
-## 🖖 Hey visitor! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=Jeremy12106&style=flat-square&color=blueviolet">
+
+## 🖖 Hey visitor! Welcome to my Github Page <img align="right" src="https://komarev.com/ghpvc/?username=Jeremy12106&style=flat-square&color=blueviolet">
 
 <p align='center'>
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Hi!+I'm+Jeremy;an+AI+Engineer">
 </p>
 
+
+### 🚀 About Me
+
+I am a graduate of the Artificial Intelligence Department, deeply passionate about Artificial Intelligence.
+
+Since 2021, I have been actively studying and working in the field of artificial intelligence. During this time, I have contributed to diverse projects involving machine learning, deep learning, computer vision, natural language processing, and bot programming. 
+
+My experiences have equipped me with a strong foundation in AI and its applications, and I am always eager to learn and explore new challenges in this exciting field.
+
+- 🌎 I'm from Taiwan
+- 👨🏻‍💻 Love programming and gaming
+- 🧠 Love sharing knowledge
+- 🤖 Passionate about exploring the untapped potential of AI
+- 🌟 Enjoy trying new things and embracing challenges
+
+### 💻 Tech stack
+
+[![Tech stack](https://skillicons.dev/icons?i=py,c,vscode,pycharm,anaconda,ubuntu,discord,bots,docker,fastapi,git,unity,github,gitlab,opencv,postgres,pytorch,tensorflow,&perline=6)](https://skillicons.dev)
+
+
 ### ⭐ GitHub Stats
+
 <p> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeremy12106&show_icons=true&theme=onedark&locale=en&hide_border=true" alt="Jeremy12106" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeremy12106&show_icons=true&theme=onedark&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Jeremy12106"/>
 </p>
 
-<!--
-**Jeremy12106/Jeremy12106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jeremy12106)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
