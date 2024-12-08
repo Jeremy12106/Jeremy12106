@@ -19,7 +19,7 @@ My experiences have equipped me with a strong foundation in AI and its applicati
 - 🌎 I'm from Taiwan
 - 👨🏻‍💻 Love programming and gaming
 - 🧠 Love sharing knowledge
-- 🤖 Passionate about exploring the untapped potential of AI
+- 🤖 Passionate about exploring the potential of AI
 - 🌟 Enjoy trying new things and embracing challenges
 
 ### 💻 Tech stack
