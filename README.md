@@ -35,6 +35,10 @@ My experiences have equipped me with a strong foundation in AI and its applicati
 </p>
 
 
+### 📦 Commits
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Jeremy12106/Jeremy12106/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jeremy12106/Jeremy12106/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jeremy12106)
 
 
