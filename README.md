@@ -30,8 +30,8 @@ My experiences have equipped me with a strong foundation in AI and its applicati
 ### ⭐ GitHub Stats
 
 <p> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeremy12106&show_icons=true&theme=onedark&border_radius=6" alt="Jeremy12106" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeremy12106&layout=compact&theme=onedark&border_radius=6" alt="Jeremy12106"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeremy12106&show_icons=true&theme=onedark&border_radius=10" alt="Jeremy12106" width="49%"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeremy12106&layout=compact&theme=onedark&border_radius=10" alt="Jeremy12106" width="49%"/>
 </p>
 
 
